@@ -1,0 +1,1 @@
+A wasap project (chat) used to apply some hexagonal architecture and clean code.
