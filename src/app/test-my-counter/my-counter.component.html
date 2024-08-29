@@ -1,0 +1,6 @@
+<div class="flex flex-row">
+  <button class="basis-1" (click)="increment()">Increment</button>
+  <div>{{ count$ | async }}</div>
+  <button (click)="decrement()">Decrement</button>
+</div>
+<button (click)="reset()">Reset Counter</button>
