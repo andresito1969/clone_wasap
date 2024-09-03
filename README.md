@@ -1,3 +1,6 @@
+# Want to contribute?
+Read: contributing.md file
+
 # Install
 1. npm install --global yarn
 2. yarn install -> (In the repo folder ~/clone_wasap)
