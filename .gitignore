@@ -43,3 +43,5 @@ Thumbs.db
 
 
 notes.txt
+.nx/cache
+.nx/workspace-data

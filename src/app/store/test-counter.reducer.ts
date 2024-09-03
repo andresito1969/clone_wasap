@@ -10,5 +10,8 @@ export const counterReducer = createReducer(
     return state + 1
   }),
   on(decrement, (state) => state - 1),
-  on(reset, (state) => 0)
+  on(reset, (state) => {
+    console.log(`Reset state of curr value ${state}`)
+    return 0
+  })
 );
