@@ -42,4 +42,4 @@ In order to start your first development *read the previous rules*, and since we
 I encourage you to work with VScode and install a Linter, it's important cause this repo will have some code rules that must be followed and must satisfy
 linter (code rules).
 
-Also if you wan't to know how to install the project in your computer, follow the RAEADME.md steps
+Also if you wan't to know how to install the project in your computer, follow the [README.md](https://github.com/andresito1969/clone_wasap/blob/main/README.md) steps
