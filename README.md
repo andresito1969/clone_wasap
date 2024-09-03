@@ -1,3 +1,10 @@
+# Install
+1. npm install --global yarn
+2. yarn install -> (In the repo folder ~/clone_wasap)
+3. npm install -g @angular/cli
+4. ng v (to check if we have angular CLI installed)
+5. ng serve -> (In the repo folder ~/clone_wasap)
+
 # CloneWasap
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
