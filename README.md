@@ -1,5 +1,8 @@
 # Want to contribute?
-Read: contributing.md file
+**READ: [CONTRIBUTING.MD FILE](https://github.com/andresito1969/clone_wasap/blob/main/contributing.md)**
+
+**ALSO TAKE A LOOK ON THE FINISHED.PNG AND FINISHED.EXCALIDRAW FILES, THESE ARE THE ARCHITECTURE FILES** 
+
 
 # Install
 1. npm install --global yarn
@@ -11,10 +14,6 @@ Read: contributing.md file
 # CloneWasap
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
-
-**WANT TO WORK WITH US? READ CONTRIBUTING.MD FILE**
-
-**ALSO TAKE A LOOK ON THE FINISHED.PNG AND FINISHED.EXCALIDRAW FILES, THESE ARE THE ARCHITECTURE FILES** 
 
 ## Development server
 
