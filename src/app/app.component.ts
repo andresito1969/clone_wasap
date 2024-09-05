@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { MatSlideToggleModule } from '@angular/material/slide-toggle';
 import { MyCounterComponent } from './test-my-counter/my-counter.component';
-import { SideBarComponent } from './Domains/side-bar/side-bar.component';
+import { SideBarComponent } from './Domains/';
 @Component({
   selector: 'app-root',
   standalone: true,
