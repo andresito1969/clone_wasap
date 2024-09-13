@@ -18,16 +18,9 @@ be accepted as soon as possible.
 
 
 ## Commits
-The commits should be followed with a tag of the work we have done -> [INFO],
-followed by a short and descriptive message -> Added contributing.md
+It will be optimal if the commits are simple and easy to read, usage of **conventional commits / semantic git** is recommended.
 
-So the full commit should be like this -> [INFO] Added contributing.md
-
-Normally our tags will look like:
-  - DEVELOPMENT -> When we add a new full development, for example a screen.
-  - FEATURE -> When we add new functionality in a development that was already created and in production / remote origin server, for example a button in a screen.
-  - BUGFIX -> Whenever we encounter a bug, whether it's in a Development or in a Feature.
-  - TEST -> When we create a new TEST (feature test, integration etc.)
+[Click here for more info](https://github.com/andresito1969/clone_wasap/blob/main/commits.md)
   
 
 ## Branches
