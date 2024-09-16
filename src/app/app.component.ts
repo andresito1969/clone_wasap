@@ -7,7 +7,10 @@ import { ProfileComponent } from "./Domains/profile/profile.component";
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, MatSlideToggleModule, MyCounterComponent, SideBarComponent, UserSettingsComponent, ProfileComponent],
+  imports: [
+    RouterOutlet, MatSlideToggleModule, MyCounterComponent,
+    SideBarComponent, UserSettingsComponent, ProfileComponent
+  ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
