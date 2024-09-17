@@ -1,0 +1,8 @@
+li.underline-row:before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 80px; /* TODO: Refactor hardcode */
+  width: calc(100% - 34px); /* TODO: Refactor hardcode */
+  border-bottom: 1px solid #233039;
+}
