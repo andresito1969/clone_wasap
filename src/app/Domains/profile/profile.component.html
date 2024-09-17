@@ -1,5 +1,9 @@
 <article class="pl-5 mt-5">
-  <header>
+  <nav *ngIf="showReturnToConfigBtn" class="inline-flex">
+    <button routerLink="/user-settings" routerLinkActive="active"><mat-icon class="text-[#8796A1]">arrow_back</mat-icon></button>
+    <h1 class="text-white ml-10">Profile</h1>
+  </nav>
+  <header *ngIf="!showReturnToConfigBtn">
     <h1 class="text-white text-2xl">Profile</h1>
   </header>
   <section class="mt-10 flex">
